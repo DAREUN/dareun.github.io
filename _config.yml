@@ -4,23 +4,23 @@
 markdown: kramdown
 highlighter: rouge
 paginate: 5
-language: 'en-uk'
+language: 'ko-kr'
 
 # Website info
-name: 'Finding The Way Home'
-description: "A beautiful narrative written with the world's most elegant publishing platform. The story begins here."
+name: '다른코리아 기술블로그'
+description: "다른코리아의 기술블로그입니다."
 
 # Author's info
-author: 'Casper McFadden'
+author: 'JAEMIN LEE'
 # edit 'categories' in the front matter of every post to match this username
-nickname: casper
-bio: 'A paranormal expert and his daughter bunk in an abandoned house populated by 3 mischievous ghosts and one friendly one.'
-location: 'Maine, USA'
+nickname: JAM
+bio: '다른가치를 개발합니다.'
+location: 'daejeon, Ko'
 url: 'http://dareun.github.io/'
-image: 'assets/images/casper.png'
+image: 'assets/images/jam.jpg'
 
 short_url: 'dareun.github.io'
-google_analytics: UA-69281367-1
+google_analytics: UA-109077731-1
 disqus: dareun
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
 baseurl: /
