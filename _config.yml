@@ -23,7 +23,7 @@ short_url: 'dareun.github.io'
 google_analytics: UA-109077731-1
 disqus: dareun
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: ../../
+baseurl: ../
 
 # Permalinks
 permalink: /:title
