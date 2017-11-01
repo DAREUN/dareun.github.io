@@ -59,8 +59,8 @@ lsi: false
 username: dareun
 repo: dareun.github.io
 branch: master
-relative_source: ../jasper/
-destination: ../jasper-pages/
+relative_source: ../
+destination: ../
 production_url:  https://dareun.github.io/
 source_url:      https://github.com/DAREUN/dareun.github.io
 
