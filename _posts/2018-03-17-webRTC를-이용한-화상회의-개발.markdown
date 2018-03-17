@@ -133,6 +133,10 @@ Caller는 마찬가지고 전달 받은 `SDP`를 `RemoteDescription`으로 설�
 
 이런 방식으로 간단한 화상통화를 구현할 수 있다!
 
+## 데모
+
+https://j911.github.io/webRTC-sample/
+
 ## 후기
 
 자료를 찾아보면서 많은 어려움이 있었다. 표준이 완벽한것이 아니여서 그런지 찾아본 예전자료들과도 다른점들이 존재했다. callback으로 받는 부분이 Promise로 변경된 부분과(mozilla문서에서는 둘다 가능하다고 설명하지만, 나의 환경에서는 적용이 어려웠다, mozilla역시 Promise사용을 권장한다) 같이 문법적인 것의 변화와 NAT같은 환경에서 PeerConnetion을 이루기위해 STUN/TURN의 서버를 이용해야하는데 여기까지는 여러 문제로 시도해보지는 못했다.
