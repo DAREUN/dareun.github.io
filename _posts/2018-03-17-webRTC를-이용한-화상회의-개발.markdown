@@ -3,7 +3,7 @@ layout: post
 cover: 'assets/images/cover.jpg'
 title: webRTC를 이용한 화상회의 개발
 date:   2018-03-17 15:56:00
-tags: webRTC nodejs
+tags: webRTC
 subclass: 'post tag-test tag-content'
 categories: 'JAM'
 navigation: True
