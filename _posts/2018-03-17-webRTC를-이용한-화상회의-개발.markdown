@@ -113,11 +113,11 @@ Caller는 마찬가지고 전달 받은 `SDP`를 `RemoteDescription`으로 설�
     callee.onicecandidat = handleeCallerOnicecandidate;
     
     function handlerCallerOnicecandidate(e){
-        callee.addIceCandidate(e.candidate);
+        if(e.candidate) callee.addIceCandidate(e.candidate);
     }
 
     function handlerCalleeOnicecandidate(e){
-        caller.addIceCandidate(e.candidate);
+        if(e.candidate) caller.addIceCandidate(e.candidate);
     }
 ```
 
