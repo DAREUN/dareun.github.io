@@ -148,3 +148,6 @@ Caller는 마찬가지고 전달 받은 `SDP`를 `RemoteDescription`으로 설�
 - https://www.html5rocks.com/ko/tutorials/webrtc/basics/
 
 - https://developer.mozilla.org/ko/docs/Web/API/WebRTC_API/Signaling_and_video_calling
+
+이 글은 브런치에 같이 업로드 되었습니다.
+https://brunch.co.kr/@dareun/7
